@@ -2,4 +2,4 @@
 
 which gmsaas
 gmsaas --version
-gmsaas auth login "$GENYCLOUD_USERNAME" "$GENYCLOUD_PASSWORD"
+# gmsaas auth login "$GENYCLOUD_USERNAME" "$GENYCLOUD_PASSWORD"
