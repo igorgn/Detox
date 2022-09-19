@@ -1,7 +1,7 @@
   - label: ":ios:-:six::nine: RN_69_iOS"
     command:
       - "nvm install"
-      - "JAVA_HOME=/usr/local/opt/openjdk@11/ ./scripts/ci.ios.sh"
+      - "./scripts/ci.ios.sh"
     env:
       REACT_NATIVE_VERSION: 0.69.5
     artifact_paths:

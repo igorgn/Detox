@@ -1,7 +1,7 @@
   - label: ":android::mushroom:-RN_66_demo_project"
     command:
       - "nvm install"
-      - "JAVA_HOME=/usr/local/opt/openjdk@11/ ./scripts/demo-projects.android.sh"
+      - "./scripts/demo-projects.android.sh"
     env:
       REACT_NATIVE_VERSION: 0.66.4
       REACT_NATIVE_COMPAT_TEST: true
