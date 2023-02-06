@@ -94,6 +94,6 @@ Dive into Detox core by reading the [Detox Contribution Guide](https://wix.githu
 
 - Detox is licensed under the [MIT License](LICENSE)
 
-## Non-English Resources (Community)
+## Non-English Resourcess (Community)
 
 - [Getting Started (Brazilian Portuguese)](https://medium.com/quia-digital/iniciando-com-detox-framework-1-4-ce31ad7ae812)
